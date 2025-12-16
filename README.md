@@ -3,13 +3,13 @@
 <h2>Trees:</h2>
 
 - [AVL Tree]
-- [Binary Swearch Tree]
+- [Binary Search Tree]
 
 <h2>Hashing:</h2>
 
 - [Hash Map]
 - [Bloom Filter]
-- [Cuckoo HAsh]
+- [Cuckoo Hash]
 
 <h2>Heaps:</h2>
 

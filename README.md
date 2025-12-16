@@ -2,19 +2,19 @@
 
 <h2>Trees:</h2>
 
-- [AVL Tree]
-- [Binary Search Tree]
+- [AVL Tree](#AVL-Tree)
+- [Binary Search Tree](#Binary-Search-Tree)
 
 <h2>Hashing:</h2>
 
-- [Hash Map]
-- [Bloom Filter]
-- [Cuckoo Hash]
+- [Hash Map](#Hash-Map)
+- [Bloom Filter](#Bloom-Filter)
+- [Cuckoo Hashing](#Cuckoo-Hashing)
 
 <h2>Heaps:</h2>
 
-- [Priority Queue]
+- [Priority Queue](#Priority-Queue)
 
 <h2>Graphs:</h2>
 
-- [Graph]
+- [Graph](#Graph)
